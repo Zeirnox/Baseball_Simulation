@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ClientBaseballJamesLiu
+comment0.text=\r\n\ This\ is\ a\ tester\ client\ to\ test\ the\ class\ Baseball.\r\n\r\n\ @author\ James\ Liu\r\n\ @version\ 1.2<P>\r\n\ \r\n\ 4/8/2020\ \ -\ version\ 1.0<P>\r\n\ \ \ \ \ \ \ \ \ \ \ -\ Created\ tester\ client\ to\ test\ Baseball.<P>\r\n\ \ \ \ \ \ \ \ \ \ \ -\ added\ for\ method\ to\ simulate\ a\ full\ game\ of\ baseball\ between\ 2\ teams.<P>\r\n\ \ \ \ \ \ \ \ \ \ \ -\ tested\ for\ method\ and\ for\ bugs\ and\ errors.<P>\r\n\ \ \ \ \ \ \ \ \ \ \ -\ revised\ for\ method\ and\ added\ an\ if\ statement\ to\ prevent\ promp\ after\ the\ 8th\ inning.<P>\r\n\ \ \ \ \ \ \ \ \ \ \ <P>\r\n\ 4/10/2020\ -\ version\ 1.1<P>\r\n\ \ \ \ \ \ \ \ \ \ \ -\ added\ an\ if\ else\ statement\ to\ utilize\ equals()\ method\ in\ class\ Baseball.<P>\r\n\ \ \ \ \ \ \ \ \ \ \ -\ tested\ if\ else\ statement\ for\ bugs\ and\ errors.<P>\r\n\ \ \ \ \ \ \ \ \ \ \ <P>\r\n\ 4/11/2020\ -\ version\ 1.2<P>\r\n\ \ \ \ \ \ \ \ \ \ \ -\ Added\ if\ else\ statement\ to\ test\ the\ equals()\ method.<P>\r\n\ \ \ \ \ \ \ \ \ \ \ -\ Added\ if\ else\ statement\ to\ determine\ the\ winner.<P>\r\n\ \ \ \ \ \ \ \ \ \ \ -\ Added\ a\ marker\ around\ the\ current\ inning.<P>\r\n\ \ \ \ \ \ \ \ \ \ \ -\ Cleaned\ upformatting\ for\ terminal\ window.<P>\r\n\ \ \ \ \ \ \ \ \ \ \ -\ Tested\ client\ for\ bugs\ and\ errors,\ none\ found.<P>\r\n
+comment1.params=
+comment1.target=void\ testBaseball()
+comment1.text=\r\n\ Tester\ client\ to\ test\ the\ class\ Baseball.\r\n
+numComments=2
