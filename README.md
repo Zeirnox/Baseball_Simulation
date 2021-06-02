@@ -1,2 +1,3 @@
 # Baseball_Simulation
-a simulation of a scoreboard at a baseball game
+a simulation of a scoreboard at a baseball game written in Java
+
